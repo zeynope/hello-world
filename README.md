@@ -1,2 +1,3 @@
 # hello-world
-Eyoo I'm learning the platform!
+Hello! In this repository, I'm learning the platform!
+This also includes a machine learning project I did using Kaggle datasets.
